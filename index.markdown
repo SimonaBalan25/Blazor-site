@@ -4,7 +4,6 @@
 
 layout: default
 title: Home
-theme: jekyll-theme-tactile
 ---
 <!DOCTYPE html>
 <html>
